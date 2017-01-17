@@ -1,6 +1,6 @@
 {
     "name": "autobahn",
-    "version": "0.8.2",
+    "version": "0.8.2-1",
     "description": "An implementation of The Web Application Messaging Protocol (WAMP). Fork by digitorum.",
     "main": "index.js",
     "scripts": { },
